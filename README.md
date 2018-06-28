@@ -6,10 +6,10 @@ A full-featured Framework7 Vue with Webpack setup with hot-reload & css extracti
 
 ### 1. Download this repository
 ```
-git clone https://github.com/framework7io/framework7-template-vue-webpack my-app
+git clone https://github.com/zhouyucheng90/Framework7-vue-android-ios.git
 ```
 
-Repository will be downloaded into `my-app/` folder
+Repository will be downloaded into `Framework7-vue-android-ios/` folder
 
 ### 2. Instal dependencies
 
@@ -43,8 +43,8 @@ Just put the contents of `www` folder in your cordova's project root `www` folde
 ## One command install
 
 ```
-git clone https://github.com/framework7io/framework7-template-vue-webpack my-app &&
-cd my-app &&
+git clone https://github.com/zhouyucheng90/Framework7-vue-android-ios.git &&
+cd Framework7-vue-android-ios &&
 npm install &&
 npm run dev
 ```
